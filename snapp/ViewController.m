@@ -41,4 +41,9 @@
     NSLog(@"Switching to the 'Take a picture' view.");
 }
 
+- (IBAction)switchToListPicturesView:(id)sender;
+{
+    NSLog(@"Switching to the 'View my pictures' view.");
+}
+
 @end

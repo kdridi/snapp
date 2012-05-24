@@ -11,5 +11,6 @@
 @interface ViewController : UIViewController
 
 - (IBAction)switchToTakePictureView:(id)sender;
+- (IBAction)switchToListPicturesView:(id)sender;
 
 @end
