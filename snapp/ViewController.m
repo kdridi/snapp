@@ -46,4 +46,9 @@
     NSLog(@"Switching to the 'View my pictures' view.");
 }
 
+- (IBAction)switchToListFacebookAlbumsView:(id)sender;
+{
+    NSLog(@"Switching to the 'View my facebook albums' view.");
+}
+
 @end

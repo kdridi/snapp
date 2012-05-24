@@ -12,5 +12,6 @@
 
 - (IBAction)switchToTakePictureView:(id)sender;
 - (IBAction)switchToListPicturesView:(id)sender;
+- (IBAction)switchToListFacebookAlbumsView:(id)sender;
 
 @end
