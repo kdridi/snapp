@@ -1,0 +1,4 @@
+snapp
+=====
+
+The snippet application
